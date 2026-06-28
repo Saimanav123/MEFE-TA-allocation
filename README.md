@@ -19,7 +19,7 @@ A valid MEFE matching must satisfy all three of:
 | **Course Satisfaction** | Average instructor utility across assigned TAs ≥ threshold *k* |
 | **Merit-based Envy-Freeness** | No TA envies another TA's assignment if they have an equal or higher grade in that course |
 
-The general problem is **NP-hard** (see paper, Theorems 1–3). This tool implements seven polynomial-time and FPT algorithms that cover tractable structural cases and uses smart auto-selection to route each uploaded dataset to the right one.
+The general problem is **NP-hard**. This tool implements seven polynomial-time and FPT algorithms that cover tractable structural cases and uses smart auto-selection to route each uploaded dataset to the right one.
 
 ---
 
