@@ -183,7 +183,9 @@ Paper preprint: Jain P., Jha P., Solanki S. — *Fairness and Efficiency in Two-
 
 ## Acknowledgements
 
-Implemented under the guidance of **Dr. Pallavi Jain** (Department of Computer Science and SAIDE, IIT Jodhpur), corresponding author of the underlying research paper.
+Implemented under the guidance of **Dr. Pallavi Jain** (Department of Computer Science and SAIDE, IIT Jodhpur), corresponding author of the underlying research paper -- 
+
+> *Fairness and Efficiency in Two-Sided Matching Markets* — Pallavi Jain, Palash Jha, Shubham Solanki (IIT Jodhpur, 2025)
 
 ---
 
