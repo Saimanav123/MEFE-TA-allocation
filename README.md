@@ -42,7 +42,7 @@ The general problem is **NP-hard**. This tool implements seven polynomial-time a
 
 ```bash
 # 1. Clone
-git clone https://github.com/Saimanav123/TempDC.git
+git clone https://github.com/Saimanav123/MEFE-TA-allocation.git
 cd TempDC
 
 # 2. Install dependencies
